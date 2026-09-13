@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Login page returning 500 error",
+    "description": "Users unable to login since this morning.",
+    "status": "In Progress",
+    "priority": "Critical",
+    "assignee": "Rohan Raj",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:22:28.070Z",
+    "updatedAt": "2026-09-11T11:22:57.051Z"
+  },
+  {
+    "id": 2,
+    "title": "Password reset email not received",
+    "description": "Users are not receiving password reset emails after submitting requests.",
+    "status": "Open",
+    "priority": "High",
+    "assignee": "Rana Batra",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:24:49.979Z",
+    "updatedAt": "2026-09-11T11:24:49.979Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow database response time",
+    "description": "Application pages are taking more than 10 seconds to load.",
+    "status": "In Progress",
+    "priority": "High",
+    "assignee": "Ankit Sharma",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:25:22.042Z",
+    "updatedAt": "2026-09-11T11:25:28.062Z"
+  },
+  {
+    "id": 4,
+    "title": "Dashboard charts not loading",
+    "description": "Analytics charts remain blank after login.",
+    "status": "Open",
+    "priority": "Medium",
+    "assignee": "Neha Sharma",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:25:55.774Z",
+    "updatedAt": "2026-09-11T11:25:55.774Z"
+  },
+  {
+    "id": 5,
+    "title": "Unable to upload profile picture",
+    "description": "Users receive an error while uploading profile images.",
+    "status": "Resolved",
+    "priority": "Low",
+    "assignee": "Karan Gupta",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:26:21.081Z",
+    "updatedAt": "2026-09-11T11:26:25.965Z"
+  },
+  {
+    "id": 6,
+    "title": "API authentication token expired",
+    "description": "API requests returning unauthorized errors unexpectedly.",
+    "status": "Open",
+    "priority": "Critical",
+    "assignee": "Rohan Raj",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:26:50.102Z",
+    "updatedAt": "2026-09-11T11:26:50.102Z"
+  },
+  {
+    "id": 7,
+    "title": "Incorrect invoice amount displayed",
+    "description": "Monthly invoice showing incorrect tax calculation.",
+    "status": "Closed",
+    "priority": "High",
+    "assignee": "Ria Jean",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:27:23.342Z",
+    "updatedAt": "2026-09-11T11:29:17.054Z"
+  },
+  {
+    "id": 8,
+    "title": "Mobile application crashes on startup",
+    "description": "Android users report app crashing immediately after opening.",
+    "status": "In Progress",
+    "priority": "Critical",
+    "assignee": "Rahul Singh",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:27:50.421Z",
+    "updatedAt": "2026-09-11T11:27:53.628Z"
+  },
+  {
+    "id": 9,
+    "title": "Email notifications delayed",
+    "description": "System notifications are arriving several hours late.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "assignee": "Ankita Sharma",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:28:20.615Z",
+    "updatedAt": "2026-09-11T11:28:31.184Z"
+  },
+  {
+    "id": 10,
+    "title": "Unable to export reports as PDF",
+    "description": "Report download fails for large datasets.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "assignee": "Neha Verma",
+    "resolutionNotes": "",
+    "createdAt": "2026-09-11T11:28:54.694Z",
+    "updatedAt": "2026-09-11T11:28:58.549Z"
+  }
+]
